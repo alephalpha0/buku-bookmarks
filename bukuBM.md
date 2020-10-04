@@ -1,0 +1,23 @@
+- [Home | Average Maker](https://averagemaker.com/) <!-- TAGS: diy,make,micro computing -->
+- [UIkit](https://getuikit.com/) <!-- TAGS: app design,design,development,site design,web ui -->
+- [TiddlyWiki Cheat Sheet by Simon Fermor - Download free from Cheatography - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/simon-fermor/cheat-sheets/tiddlywiki/) <!-- TAGS: tiddlywiki,cheatsheets -->
+- [Download Free Cheat Sheets or Create Your Own! - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/) <!-- TAGS: cheatsheets -->
+- [GoAccess - Visual Web Log Analyzer](https://goaccess.io/) <!-- TAGS: log analyzer,server admin,web log -->
+- [NextDNS](https://my.nextdns.io) <!-- TAGS: dns,personal -->
+- [cPanel Login](https://premium136.web-hosting.com:2083) <!-- TAGS: cpanel,namecheap,personal,rootofpi -->
+- [Nanoc: a static-site generator written in Ruby » home](https://nanoc.ws/) <!-- TAGS: blogging,site backend,static site generator -->
+- [gist(1) - upload code to https://gist.github.com](http://defunkt.io/gist/) <!-- TAGS: cli,gist,github,gem -->
+- [Common Commands - yadm](https://yadm.io/docs/common_commands) <!-- TAGS: cli,dotfile,yadm -->
+- [Mikel Iturbe | The command-line productivity triad: Vimwiki, Taskwarrior and Timewarrior](https://iturbe.info/2017/10/the-command-line-productivity-triad-vimwiki-taskwarrior-timewarrior/) <!-- TAGS: blog post,cli,taskwarrior,timewarrior,wiki -->
+- [GitHub - ericchiang/pup: Parsing HTML at the command line](https://github.com/EricChiang/pup) <!-- TAGS: cli,http parser -->
+- [TroyPoint](https://troypoint.com/) <!-- TAGS: kodi,android tv,torrenting -->
+- [ShaderToy](https://www.shadertoy.com/) <!-- TAGS: shadertoy,shader -->
+- [Discover Vagrant Boxes - Vagrant Cloud](https://app.vagrantup.com/boxes/search) <!-- TAGS: cloud,development environment -->
+- [Index | free-programming-books](https://ebookfoundation.github.io/free-programming-books/free-programming-books.html) <!-- TAGS: ebooks,free learning,programming -->
+- [Gofile](https://gofile.io) <!-- TAGS: file hosting,online apps,privacy centered -->
+- [Uberspace - Hosting on Asteroids](https://uberspace.de/en/product/#) <!-- TAGS: web hosting -->
+- [The freeCodeCamp Forum](https://forum.freecodecamp.org/top/daily) <!-- TAGS: coding intro,forum,freecodecamp -->
+- [Alt.Sex.Stories Text Repository](https://www.asstr.org/) <!-- TAGS: lit erotica,porn,sex -->
+- [gbdev](https://gbdev.io/) <!-- TAGS: development community,gameboy development,games,homebrew -->
+- [GitHub - jart/hiptext: Turn images into text better than caca/aalib](https://github.com/jart/hiptext) <!-- TAGS: cli,command line toy,image manipulation,image to ascii -->
+- [Adafruit Industries, Unique & fun DIY electronics and kits](https://www.adafruit.com/) <!-- TAGS: circuit boards,diy electronics,hackable,micro processors -->
