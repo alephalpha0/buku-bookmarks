@@ -20,4 +20,15 @@
 - [Alt.Sex.Stories Text Repository](https://www.asstr.org/) <!-- TAGS: lit erotica,porn,sex -->
 - [gbdev](https://gbdev.io/) <!-- TAGS: development community,gameboy development,games,homebrew -->
 - [GitHub - jart/hiptext: Turn images into text better than caca/aalib](https://github.com/jart/hiptext) <!-- TAGS: cli,command line toy,image manipulation,image to ascii -->
-- [Adafruit Industries, Unique & fun DIY electronics and kits](https://www.adafruit.com/) <!-- TAGS: circuit boards,diy electronics,hackable,micro processors -->
+- [Adafruit Industries, Unique & fun DIY electronics and kits](https://www.adafruit.com/) <!-- TAGS: arduino,circuit boards,diy electronics,hackable,micro processors -->
+- [Dedoimedo - A Place to Learn a Lot About a Lot](https://www.dedoimedo.com) <!-- TAGS: blog,linux,software reviews -->
+- [Login | My Anonamouse](https://www.myanonamouse.net/) <!-- TAGS: ebooks,epub,mobi,private tracker,torrent -->
+- [TiddlyWiki - Wikipedia](https://en.m.wikipedia.org/wiki/TiddlyWiki) <!-- TAGS: tiddlywiki -->
+- [Cookies check](https://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&edid=06c3d769-1bb8-4812-85af-583769eba825) <!-- TAGS: fetish,gear,recon annual,sex -->
+- [lolinet mirrors - firmware, software, iso etc.](https://mirrors.lolinet.com) <!-- TAGS: android,firmware,motorola -->
+- [Untitled](https://www.pexels.com/) <!-- TAGS: development,stock images -->
+- [Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs](https://jekyllrb.com/) <!-- TAGS: blog,ruby,static site generator,web development -->
+- [Silent Radiance](https://silentradiance.com/) <!-- TAGS: music,shared music space,silent disco -->
+- [projectM Visualizer · GitHub](https://github.com/projectM-visualizer) <!-- TAGS: music,music visualization -->
+- [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/) <!-- TAGS: cli,password -->
+- [Yet Another Dotfiles Manager - yadm](https://yadm.io) <!-- TAGS: cli,dot files,linux -->
