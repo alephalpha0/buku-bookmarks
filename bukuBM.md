@@ -1,26 +1,26 @@
-- [Home | Average Maker](https://averagemaker.com/) <!-- TAGS: diy,make,micro computing -->
-- [UIkit](https://getuikit.com/) <!-- TAGS: app design,design,development,site design,web ui -->
-- [TiddlyWiki Cheat Sheet by Simon Fermor - Download free from Cheatography - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/simon-fermor/cheat-sheets/tiddlywiki/) <!-- TAGS: tiddlywiki,cheatsheets -->
-- [Download Free Cheat Sheets or Create Your Own! - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/) <!-- TAGS: cheatsheets -->
+- [Home | Average Maker](https://averagemaker.com/) <!-- TAGS: diy,make,micro computing,circuit boards,hackable,micro processors -->
+- [UIkit](https://getuikit.com/) <!-- TAGS: design,development,web ui,site frontend,web development -->
+- [TiddlyWiki Cheat Sheet by Simon Fermor - Download free from Cheatography - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/simon-fermor/cheat-sheets/tiddlywiki/) <!-- TAGS: tiddlywiki,cheatsheets,personal,wiki -->
+- [Download Free Cheat Sheets or Create Your Own! - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/) <!-- TAGS: cheatsheets,cli,coding intro,development,linux,programming,site backend,site frontend -->
 - [GoAccess - Visual Web Log Analyzer](https://goaccess.io/) <!-- TAGS: log analyzer,server admin,web log -->
-- [NextDNS](https://my.nextdns.io) <!-- TAGS: dns,personal -->
+- [NextDNS](https://my.nextdns.io) <!-- TAGS: dns,personal,privacy centered -->
 - [cPanel Login](https://premium136.web-hosting.com:2083) <!-- TAGS: cpanel,namecheap,personal,rootofpi -->
-- [Nanoc: a static-site generator written in Ruby » home](https://nanoc.ws/) <!-- TAGS: blogging,site backend,static site generator -->
-- [gist(1) - upload code to https://gist.github.com](http://defunkt.io/gist/) <!-- TAGS: cli,gist,github,gem -->
-- [Common Commands - yadm](https://yadm.io/docs/common_commands) <!-- TAGS: cli,dotfile,yadm -->
-- [Mikel Iturbe | The command-line productivity triad: Vimwiki, Taskwarrior and Timewarrior](https://iturbe.info/2017/10/the-command-line-productivity-triad-vimwiki-taskwarrior-timewarrior/) <!-- TAGS: blog post,cli,taskwarrior,timewarrior,wiki -->
+- [Nanoc: a static-site generator written in Ruby » home](https://nanoc.ws/) <!-- TAGS: site backend,static site generator,blog,cli,development,rootofpi,ruby,web development -->
+- [gist(1) - upload code to https://gist.github.com](http://defunkt.io/gist/) <!-- TAGS: cli,gist,github,ruby -->
+- [Yet Another Dotfiles Manager - yadm](https://yadm.io) <!-- TAGS: cli,dot files,linux -->
+- [Mikel Iturbe | The command-line productivity triad: Vimwiki, Taskwarrior and Timewarrior](https://iturbe.info/2017/10/the-command-line-productivity-triad-vimwiki-taskwarrior-timewarrior/) <!-- TAGS: cli,taskwarrior,timewarrior,wiki,blog -->
 - [GitHub - ericchiang/pup: Parsing HTML at the command line](https://github.com/EricChiang/pup) <!-- TAGS: cli,http parser -->
-- [TroyPoint](https://troypoint.com/) <!-- TAGS: kodi,android tv,torrenting -->
+- [TroyPoint](https://troypoint.com/) <!-- TAGS: kodi,android tv,torrent -->
 - [ShaderToy](https://www.shadertoy.com/) <!-- TAGS: shadertoy,shader -->
-- [Discover Vagrant Boxes - Vagrant Cloud](https://app.vagrantup.com/boxes/search) <!-- TAGS: cloud,development environment -->
+- [Discover Vagrant Boxes - Vagrant Cloud](https://app.vagrantup.com/boxes/search) <!-- TAGS: cloud,development environment,development -->
 - [Index | free-programming-books](https://ebookfoundation.github.io/free-programming-books/free-programming-books.html) <!-- TAGS: ebooks,free learning,programming -->
 - [Gofile](https://gofile.io) <!-- TAGS: file hosting,online apps,privacy centered -->
 - [Uberspace - Hosting on Asteroids](https://uberspace.de/en/product/#) <!-- TAGS: web hosting -->
-- [The freeCodeCamp Forum](https://forum.freecodecamp.org/top/daily) <!-- TAGS: coding intro,forum,freecodecamp -->
+- [The freeCodeCamp Forum](https://forum.freecodecamp.org/top/daily) <!-- TAGS: coding intro,forum -->
 - [Alt.Sex.Stories Text Repository](https://www.asstr.org/) <!-- TAGS: lit erotica,porn,sex -->
-- [gbdev](https://gbdev.io/) <!-- TAGS: development community,gameboy development,games,homebrew -->
+- [gbdev](https://gbdev.io/) <!-- TAGS: development community,gameboy development,games,homebrew,development -->
 - [GitHub - jart/hiptext: Turn images into text better than caca/aalib](https://github.com/jart/hiptext) <!-- TAGS: cli,command line toy,image manipulation,image to ascii -->
-- [Adafruit Industries, Unique & fun DIY electronics and kits](https://www.adafruit.com/) <!-- TAGS: arduino,circuit boards,diy electronics,hackable,micro processors -->
+- [Adafruit Industries, Unique & fun DIY electronics and kits](https://www.adafruit.com/) <!-- TAGS: arduino,circuit boards,hackable,micro processors,diy -->
 - [Dedoimedo - A Place to Learn a Lot About a Lot](https://www.dedoimedo.com) <!-- TAGS: blog,linux,software reviews -->
 - [Login | My Anonamouse](https://www.myanonamouse.net/) <!-- TAGS: ebooks,epub,mobi,private tracker,torrent -->
 - [TiddlyWiki - Wikipedia](https://en.m.wikipedia.org/wiki/TiddlyWiki) <!-- TAGS: tiddlywiki -->
@@ -31,4 +31,12 @@
 - [Silent Radiance](https://silentradiance.com/) <!-- TAGS: music,shared music space,silent disco -->
 - [projectM Visualizer · GitHub](https://github.com/projectM-visualizer) <!-- TAGS: music,music visualization -->
 - [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/) <!-- TAGS: cli,password -->
-- [Yet Another Dotfiles Manager - yadm](https://yadm.io) <!-- TAGS: cli,dot files,linux -->
+- [The Odin Project](https://www.theodinproject.com/) <!-- TAGS: coding intro,design,development,development community,free learning,forum,programming,ruby,site backend,site frontend,web development,javascript,ruby on rails,html,css -->
+- [QOwnNotes - cross-platform open source plain-text file notepad](https://www.qownnotes.org/) <!-- TAGS: notepad,open source,privacy centered,todo -->
+- [Gay Torrents Live Free!](https://www.gay-torrents.net/torrentslist.php) <!-- TAGS: porn,torrent -->
+- [kitty - the fast, featureful, GPU based terminal emulator — kitty 0.19.1 documentation](https://sw.kovidgoyal.net/kitty/index.html) <!-- TAGS: cli,linux,terminal -->
+- [GIF Compressor – Compress GIF Animations Online](https://gifcompressor.com/) <!-- TAGS: gif,image manipulation,online app -->
+- [Font Awesome](https://fontawesome.com/) <!-- TAGS: design,development,font,front end design -->
+- [Magisk Documentation | Magisk](https://topjohnwu.github.io/Magisk/) <!-- TAGS: android,custom recovery,magisk,phone unlocking -->
+- [The Open GApps Project](https://opengapps.org/) <!-- TAGS: android,custom rom,open source -->
+- [Welcome | CloudCannon Academy](https://learn.cloudcannon.com) <!-- TAGS: blog,documentqtion,frontmatter,jekyll,site backend,site frontend,static site generator,tutorial -->
