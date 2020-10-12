@@ -40,3 +40,8 @@
 - [Magisk Documentation | Magisk](https://topjohnwu.github.io/Magisk/) <!-- TAGS: android,custom recovery,magisk,phone unlocking -->
 - [The Open GApps Project](https://opengapps.org/) <!-- TAGS: android,custom rom,open source -->
 - [Welcome | CloudCannon Academy](https://learn.cloudcannon.com) <!-- TAGS: blog,documentqtion,frontmatter,jekyll,site backend,site frontend,static site generator,tutorial -->
+- [hub - an extension to command-line git](https://hub.github.com) <!-- TAGS: cli,development,github -->
+- [Die.net Linux Documentation](https://linux.die.net) <!-- TAGS: bash scripting,cli,howto,linux,programming,tutorial -->
+- [Customizing Midnight Commander - brokkr.net](https://brokkr.net/2020/06/30/customizing-midnight-commander/) <!-- TAGS: blog post,cli,howto,linux,midnight commander,tutorial -->
+- [Open Source Developers NetWork - OSDN](https://osdn.net) <!-- TAGS: development,development network,open source,programs -->
+- [Linux Shell Scripting Tutorial - A Beginner's Handbook](https://bash.cyberciti.biz/guide/Main_Page) <!-- TAGS: bash scripting,cli,howto,linux,tutorial -->
