@@ -8,7 +8,7 @@
 - [Nanoc: a static-site generator written in Ruby » home](https://nanoc.ws/) <!-- TAGS: site backend,static site generator,blog,cli,development,rootofpi,ruby,web development -->
 - [gist(1) - upload code to https://gist.github.com](http://defunkt.io/gist/) <!-- TAGS: cli,gist,github,ruby -->
 - [Yet Another Dotfiles Manager - yadm](https://yadm.io) <!-- TAGS: cli,dot files,linux -->
-- [Mikel Iturbe | The command-line productivity triad: Vimwiki, Taskwarrior and Timewarrior](https://iturbe.info/2017/10/the-command-line-productivity-triad-vimwiki-taskwarrior-timewarrior/) <!-- TAGS: cli,taskwarrior,timewarrior,wiki,blog -->
+- [Mikel Iturbe | The command-line productivity triad: Vimwiki, Taskwarrior and Timewarrior](https://iturbe.info/2017/10/the-command-line-productivity-triad-vimwiki-taskwarrior-timewarrior/) <!-- TAGS: cli,taskwarrior,timewarrior,wiki,blog post -->
 - [GitHub - ericchiang/pup: Parsing HTML at the command line](https://github.com/EricChiang/pup) <!-- TAGS: cli,http parser -->
 - [TroyPoint](https://troypoint.com/) <!-- TAGS: kodi,android tv,torrent -->
 - [ShaderToy](https://www.shadertoy.com/) <!-- TAGS: shadertoy,shader -->
@@ -45,3 +45,11 @@
 - [Customizing Midnight Commander - brokkr.net](https://brokkr.net/2020/06/30/customizing-midnight-commander/) <!-- TAGS: blog post,cli,howto,linux,midnight commander,tutorial -->
 - [Open Source Developers NetWork - OSDN](https://osdn.net) <!-- TAGS: development,development network,open source,programs -->
 - [Linux Shell Scripting Tutorial - A Beginner's Handbook](https://bash.cyberciti.biz/guide/Main_Page) <!-- TAGS: bash scripting,cli,howto,linux,tutorial -->
+- [The Python Arcade Library — Python Arcade Library 2.4.3 documentation](https://arcade.academy/index.html) <!-- TAGS: animation,game development,programming,python -->
+- [Organizr – Forget Bookmarks](https://organizr.app/) <!-- TAGS: control center,landing page,linux -->
+- [Timewarrior - Done yet?](https://timewarrior.net/) <!-- TAGS: cli,linux,timewarrior -->
+- [Xfce Forums](https://forum.xfce.org/) <!-- TAGS: forum,linux,xfce -->
+- [WiGLE: Wireless Network Mapping](https://wigle.net/) <!-- TAGS: cool project,wardriving,wifi mapping -->
+- [Picular](https://picular.co/) <!-- TAGS: color generator,design,online app -->
+- [Entypo](http://www.entypo.com) <!-- TAGS: design,font,glyphs -->
+- [IcoMoon App - Icon Font, SVG, PDF & PNG Generator](https://icomoon.io/app/#/select) <!-- TAGS: glyph font,icon font,icons,online app,web app -->
