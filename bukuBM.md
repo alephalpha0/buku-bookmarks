@@ -56,3 +56,11 @@
 - [PHOTOMOSH](https://photomosh.com) <!-- TAGS: glitching,photo manipulation,web app -->
 - [Untitled](https://www.protondb.com) <!-- TAGS: gaming,linux,steam -->
 - [Tomb :: File Encryption on GNU/Linux](https://www.dyne.org/software/tomb/) <!-- TAGS: linux,privacy -->
+- [GitHub - ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl) <!-- TAGS: cli,linux,video downloader -->
+- [GitHub - srsudar/eg: Useful examples at the command line.](https://github.com/srsudar/eg) <!-- TAGS: cheatsheets,cli,howto,linux -->
+- [GitHub - cheat/cheat: cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.](https://github.com/cheat/cheat) <!-- TAGS: cheatsheets,cli,howto,linux -->
+- [Untitled](https://www.pygame.org/) <!-- TAGS: development,game development,python,python library -->
+- [Galleria – Responsive JavaScript Image Gallery](https://galleriajs.github.io) <!-- TAGS: javascript,photograph gallery,photography,web development -->
+- [DevDocs API Documentation](https://devdocs.io/) <!-- TAGS: development,documentation,howto,web app -->
+- [LYNX – The Text Web-Browser](https://lynx.invisible-island.net/) <!-- TAGS: cli,linux,software,text based,web browser -->
+- [Overview — mutagen](https://mutagen.readthedocs.io/) <!-- TAGS: cli,id3 tag editor,pip,python,python library -->
