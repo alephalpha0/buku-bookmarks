@@ -14,7 +14,7 @@
 - [ShaderToy](https://www.shadertoy.com/) <!-- TAGS: shadertoy,shader -->
 - [Discover Vagrant Boxes - Vagrant Cloud](https://app.vagrantup.com/boxes/search) <!-- TAGS: cloud,development environment,development -->
 - [Index | free-programming-books](https://ebookfoundation.github.io/free-programming-books/free-programming-books.html) <!-- TAGS: ebooks,free learning,programming -->
-- [Gofile](https://gofile.io) <!-- TAGS: file hosting,online apps,privacy centered -->
+- [Gofile](https://gofile.io) <!-- TAGS: file hosting,privacy centered,web app -->
 - [Uberspace - Hosting on Asteroids](https://uberspace.de/en/product/#) <!-- TAGS: web hosting -->
 - [The freeCodeCamp Forum](https://forum.freecodecamp.org/top/daily) <!-- TAGS: coding intro,forum -->
 - [Alt.Sex.Stories Text Repository](https://www.asstr.org/) <!-- TAGS: lit erotica,porn,sex -->
@@ -35,7 +35,7 @@
 - [QOwnNotes - cross-platform open source plain-text file notepad](https://www.qownnotes.org/) <!-- TAGS: notepad,open source,privacy centered,todo -->
 - [Gay Torrents Live Free!](https://www.gay-torrents.net/torrentslist.php) <!-- TAGS: porn,torrent -->
 - [kitty - the fast, featureful, GPU based terminal emulator — kitty 0.19.1 documentation](https://sw.kovidgoyal.net/kitty/index.html) <!-- TAGS: cli,linux,terminal -->
-- [GIF Compressor – Compress GIF Animations Online](https://gifcompressor.com/) <!-- TAGS: gif,image manipulation,online app -->
+- [GIF Compressor – Compress GIF Animations Online](https://gifcompressor.com/) <!-- TAGS: gif,image manipulation,web app -->
 - [Font Awesome](https://fontawesome.com/) <!-- TAGS: design,development,font,front end design -->
 - [Magisk Documentation | Magisk](https://topjohnwu.github.io/Magisk/) <!-- TAGS: android,custom recovery,magisk,phone unlocking -->
 - [The Open GApps Project](https://opengapps.org/) <!-- TAGS: android,custom rom,open source -->
@@ -50,6 +50,9 @@
 - [Timewarrior - Done yet?](https://timewarrior.net/) <!-- TAGS: cli,linux,timewarrior -->
 - [Xfce Forums](https://forum.xfce.org/) <!-- TAGS: forum,linux,xfce -->
 - [WiGLE: Wireless Network Mapping](https://wigle.net/) <!-- TAGS: cool project,wardriving,wifi mapping -->
-- [Picular](https://picular.co/) <!-- TAGS: color generator,design,online app -->
+- [Picular](https://picular.co/) <!-- TAGS: color generator,design,web app -->
 - [Entypo](http://www.entypo.com) <!-- TAGS: design,font,glyphs -->
-- [IcoMoon App - Icon Font, SVG, PDF & PNG Generator](https://icomoon.io/app/#/select) <!-- TAGS: glyph font,icon font,icons,online app,web app -->
+- [IcoMoon App - Icon Font, SVG, PDF & PNG Generator](https://icomoon.io/app/#/select) <!-- TAGS: glyph font,icon font,icons,web app -->
+- [PHOTOMOSH](https://photomosh.com) <!-- TAGS: glitching,photo manipulation,web app -->
+- [Untitled](https://www.protondb.com) <!-- TAGS: gaming,linux,steam -->
+- [Tomb :: File Encryption on GNU/Linux](https://www.dyne.org/software/tomb/) <!-- TAGS: linux,privacy -->
