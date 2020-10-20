@@ -64,3 +64,4 @@
 - [DevDocs API Documentation](https://devdocs.io/) <!-- TAGS: development,documentation,howto,web app -->
 - [LYNX – The Text Web-Browser](https://lynx.invisible-island.net/) <!-- TAGS: cli,linux,software,text based,web browser -->
 - [Overview — mutagen](https://mutagen.readthedocs.io/) <!-- TAGS: cli,id3 tag editor,pip,python,python library -->
+- [Icecast](https://icecast.org/) <!-- TAGS: cli,command line,linux,media jukebox,music -->
