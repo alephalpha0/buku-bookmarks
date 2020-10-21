@@ -65,3 +65,5 @@
 - [LYNX – The Text Web-Browser](https://lynx.invisible-island.net/) <!-- TAGS: cli,linux,software,text based,web browser -->
 - [Overview — mutagen](https://mutagen.readthedocs.io/) <!-- TAGS: cli,id3 tag editor,pip,python,python library -->
 - [Icecast](https://icecast.org/) <!-- TAGS: cli,command line,linux,media jukebox,music -->
+- [Recalbox.com](https://www.recalbox.com) <!-- TAGS: emulation,linux,mpc,video games -->
+- [The Best MOTD - How to Customize Your MOTD - Linux](http://mewbies.com/how_to_customize_your_console_login_message_tutorial.htm) <!-- TAGS: cli,howto,linux,motd,tutorial -->
