@@ -67,3 +67,8 @@
 - [Icecast](https://icecast.org/) <!-- TAGS: cli,command line,linux,media jukebox,music -->
 - [Recalbox.com](https://www.recalbox.com) <!-- TAGS: emulation,linux,mpc,video games -->
 - [The Best MOTD - How to Customize Your MOTD - Linux](http://mewbies.com/how_to_customize_your_console_login_message_tutorial.htm) <!-- TAGS: cli,howto,linux,motd,tutorial -->
+- [Convert document, image, video and audio files online](https://www.aconvert.com) <!-- TAGS: file conversion,web app -->
+- [rsync](https://rsync.samba.org) <!-- TAGS: cli,linux,rsync -->
+- [Overview - jrnl](https://jrnl.sh/overview/) <!-- TAGS: blogging,cli,command line tools,jounraling,linux -->
+- [GitHub - dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible) <!-- TAGS: bash scripting,howto,sceipt,tutorial -->
+- [GitHub - Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide) <!-- TAGS: bash scripting,howto,linux,programming,tutorial -->
