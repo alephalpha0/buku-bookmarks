@@ -72,3 +72,4 @@
 - [Overview - jrnl](https://jrnl.sh/overview/) <!-- TAGS: blogging,cli,command line tools,jounraling,linux -->
 - [GitHub - dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible) <!-- TAGS: bash scripting,howto,sceipt,tutorial -->
 - [GitHub - Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide) <!-- TAGS: bash scripting,howto,linux,programming,tutorial -->
+- [Home — pyglet](http://pyglet.org/) <!-- TAGS: game development,multimedia developmemt,python,python library -->
