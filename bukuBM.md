@@ -5,7 +5,7 @@
 - [GoAccess - Visual Web Log Analyzer](https://goaccess.io/) <!-- TAGS: log analyzer,server admin,web log -->
 - [NextDNS](https://my.nextdns.io) <!-- TAGS: dns,personal,privacy centered -->
 - [cPanel Login](https://premium136.web-hosting.com:2083) <!-- TAGS: cpanel,namecheap,personal,rootofpi -->
-- [Nanoc: a static-site generator written in Ruby » home](https://nanoc.ws/) <!-- TAGS: site backend,static site generator,blog,cli,development,rootofpi,ruby,web development -->
+- [Nanoc: a static-site generator written in Ruby » home](https://nanoc.ws/) <!-- TAGS: site backend,static site generator,cli,development,rootofpi,ruby,web development,blogging -->
 - [gist(1) - upload code to https://gist.github.com](http://defunkt.io/gist/) <!-- TAGS: cli,gist,github,ruby -->
 - [Yet Another Dotfiles Manager - yadm](https://yadm.io) <!-- TAGS: cli,dot files,linux -->
 - [Mikel Iturbe | The command-line productivity triad: Vimwiki, Taskwarrior and Timewarrior](https://iturbe.info/2017/10/the-command-line-productivity-triad-vimwiki-taskwarrior-timewarrior/) <!-- TAGS: cli,taskwarrior,timewarrior,wiki,blog post -->
@@ -27,7 +27,7 @@
 - [Cookies check](https://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&edid=06c3d769-1bb8-4812-85af-583769eba825) <!-- TAGS: fetish,gear,recon annual,sex -->
 - [lolinet mirrors - firmware, software, iso etc.](https://mirrors.lolinet.com) <!-- TAGS: android,firmware,motorola -->
 - [Untitled](https://www.pexels.com/) <!-- TAGS: development,stock images -->
-- [Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs](https://jekyllrb.com/) <!-- TAGS: blog,ruby,static site generator,web development -->
+- [Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs](https://jekyllrb.com/) <!-- TAGS: ruby,static site generator,web development,blogging,site frontend,site backend -->
 - [Silent Radiance](https://silentradiance.com/) <!-- TAGS: music,shared music space,silent disco -->
 - [projectM Visualizer · GitHub](https://github.com/projectM-visualizer) <!-- TAGS: music,music visualization -->
 - [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/) <!-- TAGS: cli,password -->
@@ -39,12 +39,12 @@
 - [Font Awesome](https://fontawesome.com/) <!-- TAGS: design,development,font,front end design -->
 - [Magisk Documentation | Magisk](https://topjohnwu.github.io/Magisk/) <!-- TAGS: android,custom recovery,magisk,phone unlocking -->
 - [The Open GApps Project](https://opengapps.org/) <!-- TAGS: android,custom rom,open source -->
-- [Welcome | CloudCannon Academy](https://learn.cloudcannon.com) <!-- TAGS: blog,documentqtion,frontmatter,jekyll,site backend,site frontend,static site generator,tutorial -->
+- [Welcome | CloudCannon Academy](https://learn.cloudcannon.com) <!-- TAGS: frontmatter,jekyll,site backend,site frontend,static site generator,tutorial,documentation,blogging,howto,web hosting -->
 - [hub - an extension to command-line git](https://hub.github.com) <!-- TAGS: cli,development,github -->
-- [Die.net Linux Documentation](https://linux.die.net) <!-- TAGS: bash scripting,cli,howto,linux,programming,tutorial -->
+- [Die.net Linux Documentation](https://linux.die.net) <!-- TAGS: bash scripting,cli,howto,linux,programming,tutorial,bash -->
 - [Customizing Midnight Commander - brokkr.net](https://brokkr.net/2020/06/30/customizing-midnight-commander/) <!-- TAGS: blog post,cli,howto,linux,midnight commander,tutorial -->
 - [Open Source Developers NetWork - OSDN](https://osdn.net) <!-- TAGS: development,development network,open source,programs -->
-- [Linux Shell Scripting Tutorial - A Beginner's Handbook](https://bash.cyberciti.biz/guide/Main_Page) <!-- TAGS: bash scripting,cli,howto,linux,tutorial -->
+- [Linux Shell Scripting Tutorial - A Beginner's Handbook](https://bash.cyberciti.biz/guide/Main_Page) <!-- TAGS: bash scripting,cli,howto,linux,tutorial,programming,bash -->
 - [The Python Arcade Library — Python Arcade Library 2.4.3 documentation](https://arcade.academy/index.html) <!-- TAGS: animation,game development,programming,python -->
 - [Organizr – Forget Bookmarks](https://organizr.app/) <!-- TAGS: control center,landing page,linux -->
 - [Timewarrior - Done yet?](https://timewarrior.net/) <!-- TAGS: cli,linux,timewarrior -->
@@ -70,6 +70,8 @@
 - [Convert document, image, video and audio files online](https://www.aconvert.com) <!-- TAGS: file conversion,web app -->
 - [rsync](https://rsync.samba.org) <!-- TAGS: cli,linux,rsync -->
 - [Overview - jrnl](https://jrnl.sh/overview/) <!-- TAGS: blogging,cli,command line tools,jounraling,linux -->
-- [GitHub - dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible) <!-- TAGS: bash scripting,howto,sceipt,tutorial -->
+- [GitHub - dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible) <!-- TAGS: bash scripting,howto,tutorial,script,bash,cli,command line,coding intro,linux -->
 - [GitHub - Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide) <!-- TAGS: bash scripting,howto,linux,programming,tutorial -->
 - [Home — pyglet](http://pyglet.org/) <!-- TAGS: game development,multimedia developmemt,python,python library -->
+- [INT 10h](https://int10h.org/) <!-- TAGS: bitmap fonts,font,pixel -->
+- [ShellCheck – shell script analysis tool](https://www.shellcheck.net/) <!-- TAGS: cli,code formatter,development,linter,shell code,static code analysis,web app,bash,bash scripting,programming -->
