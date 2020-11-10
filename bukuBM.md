@@ -75,3 +75,14 @@
 - [Home — pyglet](http://pyglet.org/) <!-- TAGS: game development,multimedia developmemt,python,python library -->
 - [INT 10h](https://int10h.org/) <!-- TAGS: bitmap fonts,font,pixel -->
 - [ShellCheck – shell script analysis tool](https://www.shellcheck.net/) <!-- TAGS: cli,code formatter,development,linter,shell code,static code analysis,web app,bash,bash scripting,programming -->
+- [Coolors - The super fast color schemes generator!](https://coolors.co) <!-- TAGS: color scheme,design,web frontend -->
+- [Untitled](https://pexels.com) <!-- TAGS: design,photography,stock images,web frontend -->
+- [Home | Solus](https://getsol.us/home/) <!-- TAGS: linux,linux distro,os -->
+- [Peppermint OS – The Linux Desktop OS](https://peppermintos.com/) <!-- TAGS: distro,linux,os -->
+- [Lakka - The DIY open source retrogaming emulation console](http://www.lakka.tv/) <!-- TAGS: gaming,linux,linux distro,retroocnsole -->
+- [Zorin OS - Your Computer. Better.](https://zorinos.com/) <!-- TAGS: linux,linux distro,os -->
+- [Netrunner GNU/Linux](https://www.netrunner.com/) <!-- TAGS: linux,linux distro,os -->
+- [How to restore your Toshiba computer/tablet to its factory fresh software condition using system recovery](https://support.dynabook.com/support/viewContentDetail?contentId=2737864) <!-- TAGS: personal,toshiba laptop -->
+- [CSS-Tricks](https://css-tricks.com/) <!-- TAGS: css,howto,tutorial,web frontend -->
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) <!-- TAGS: dev docs,development,howto,tutorial,web backend,web frontend -->
+- [Colormind - the AI powered color palette generator](http://colormind.io/) <!-- TAGS: color scheme generator,ui,ux,web frontend -->
