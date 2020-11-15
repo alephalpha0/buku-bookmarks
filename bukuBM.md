@@ -36,7 +36,7 @@
 - [Gay Torrents Live Free!](https://www.gay-torrents.net/torrentslist.php) <!-- TAGS: porn,torrent -->
 - [kitty - the fast, featureful, GPU based terminal emulator — kitty 0.19.1 documentation](https://sw.kovidgoyal.net/kitty/index.html) <!-- TAGS: cli,linux,terminal -->
 - [GIF Compressor – Compress GIF Animations Online](https://gifcompressor.com/) <!-- TAGS: gif,image manipulation,web app -->
-- [Font Awesome](https://fontawesome.com/) <!-- TAGS: design,development,font,front end design -->
+- [Font Awesome](https://fontawesome.com/) <!-- TAGS: design,development,font,web frontend -->
 - [Magisk Documentation | Magisk](https://topjohnwu.github.io/Magisk/) <!-- TAGS: android,custom recovery,magisk,phone unlocking -->
 - [The Open GApps Project](https://opengapps.org/) <!-- TAGS: android,custom rom,open source -->
 - [Welcome | CloudCannon Academy](https://learn.cloudcannon.com) <!-- TAGS: frontmatter,jekyll,site backend,site frontend,static site generator,tutorial,documentation,blogging,howto,web hosting -->
@@ -64,13 +64,13 @@
 - [DevDocs API Documentation](https://devdocs.io/) <!-- TAGS: development,documentation,howto,web app -->
 - [LYNX – The Text Web-Browser](https://lynx.invisible-island.net/) <!-- TAGS: cli,linux,software,text based,web browser -->
 - [Overview — mutagen](https://mutagen.readthedocs.io/) <!-- TAGS: cli,id3 tag editor,pip,python,python library -->
-- [Icecast](https://icecast.org/) <!-- TAGS: cli,command line,linux,media jukebox,music -->
+- [Icecast](https://icecast.org/) <!-- TAGS: cli,linux,media jukebox,music -->
 - [Recalbox.com](https://www.recalbox.com) <!-- TAGS: emulation,linux,mpc,video games -->
 - [The Best MOTD - How to Customize Your MOTD - Linux](http://mewbies.com/how_to_customize_your_console_login_message_tutorial.htm) <!-- TAGS: cli,howto,linux,motd,tutorial -->
 - [Convert document, image, video and audio files online](https://www.aconvert.com) <!-- TAGS: file conversion,web app -->
 - [rsync](https://rsync.samba.org) <!-- TAGS: cli,linux,rsync -->
 - [Overview - jrnl](https://jrnl.sh/overview/) <!-- TAGS: blogging,cli,command line tools,jounraling,linux -->
-- [GitHub - dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible) <!-- TAGS: bash scripting,howto,tutorial,script,bash,cli,command line,coding intro,linux -->
+- [GitHub - dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible) <!-- TAGS: bash scripting,howto,tutorial,script,bash,cli,coding intro,linux -->
 - [GitHub - Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide) <!-- TAGS: bash scripting,howto,linux,programming,tutorial -->
 - [Home — pyglet](http://pyglet.org/) <!-- TAGS: game development,multimedia developmemt,python,python library -->
 - [INT 10h](https://int10h.org/) <!-- TAGS: bitmap fonts,font,pixel -->
@@ -85,4 +85,9 @@
 - [How to restore your Toshiba computer/tablet to its factory fresh software condition using system recovery](https://support.dynabook.com/support/viewContentDetail?contentId=2737864) <!-- TAGS: personal,toshiba laptop -->
 - [CSS-Tricks](https://css-tricks.com/) <!-- TAGS: css,howto,tutorial,web frontend -->
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) <!-- TAGS: dev docs,development,howto,tutorial,web backend,web frontend -->
-- [Colormind - the AI powered color palette generator](http://colormind.io/) <!-- TAGS: color scheme generator,ui,ux,web frontend -->
+- [Colormind - the AI powered color palette generator](http://colormind.io/) <!-- TAGS: ui,ux,web frontend,color scheme -->
+- [Frei0r :: Free Video Effects collection](https://www.dyne.org/software/frei0r/) <!-- TAGS: ffmpeg,video effect plugin,video effects -->
+- [Temp mail - Fake email - Disposable email - Send anonymous email](https://tempmail.ninja/) <!-- TAGS: privacy,temp email,web app -->
+- [Polybar - A fast and easy-to-use tool for creating status bars](https://polybar.github.io) <!-- TAGS: desktop environment,linux,taskbar -->
+- [Eyecandy for your XFCE-Desktop - xfce-look.org](https://www.xfce-look.org/browse/cat/) <!-- TAGS: linux,theming,xfce -->
+- [How to Look Into a File](https://filext.com/faq/look_into_files.html) <!-- TAGS: data extraction,file hacking,hexedit,howto,tutorial. faq -->
