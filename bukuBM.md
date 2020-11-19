@@ -91,3 +91,4 @@
 - [Polybar - A fast and easy-to-use tool for creating status bars](https://polybar.github.io) <!-- TAGS: desktop environment,linux,taskbar -->
 - [Eyecandy for your XFCE-Desktop - xfce-look.org](https://www.xfce-look.org/browse/cat/) <!-- TAGS: linux,theming,xfce -->
 - [How to Look Into a File](https://filext.com/faq/look_into_files.html) <!-- TAGS: data extraction,file hacking,hexedit,howto,tutorial. faq -->
+- [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org) <!-- TAGS: cli,cli toys,linux,terminal -->
