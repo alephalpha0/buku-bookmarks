@@ -92,3 +92,6 @@
 - [Eyecandy for your XFCE-Desktop - xfce-look.org](https://www.xfce-look.org/browse/cat/) <!-- TAGS: linux,theming,xfce -->
 - [How to Look Into a File](https://filext.com/faq/look_into_files.html) <!-- TAGS: data extraction,file hacking,hexedit,howto,tutorial. faq -->
 - [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org) <!-- TAGS: cli,cli toys,linux,terminal -->
+- [Untitled](http://www.resetsurvivor.com/) <!-- TAGS: art,artist,pixel art -->
+- [Cement - CLI Application Framework for Python](https://builtoncement.com/) <!-- TAGS: cli,development,python -->
+- [Bitsy - Exploring Technology](https://www.exploring.technology/learn/bitsy) <!-- TAGS: art generation,game dev,small world -->
