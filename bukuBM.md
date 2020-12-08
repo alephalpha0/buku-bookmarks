@@ -95,3 +95,7 @@
 - [Untitled](http://www.resetsurvivor.com/) <!-- TAGS: art,artist,pixel art -->
 - [Cement - CLI Application Framework for Python](https://builtoncement.com/) <!-- TAGS: cli,development,python -->
 - [Bitsy - Exploring Technology](https://www.exploring.technology/learn/bitsy) <!-- TAGS: art generation,game dev,small world -->
+- [Microsoft Windows and Office ISO Download Tool](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-iso-download-tool) <!-- TAGS: iso,os,windows,windows iso -->
+- [webgems.io](https://webgems.io) <!-- TAGS: awesome list,web dev -->
+- [Untitled](http://ledoux.io/bitsy/) <!-- TAGS: bitsy,pixel art,retro,world builder -->
+- [Monkeytype](https://monkeytype.com/) <!-- TAGS: game,practice,typing,wpm -->
