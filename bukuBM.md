@@ -99,3 +99,12 @@
 - [webgems.io](https://webgems.io) <!-- TAGS: awesome list,web dev -->
 - [Untitled](http://ledoux.io/bitsy/) <!-- TAGS: bitsy,pixel art,retro,world builder -->
 - [Monkeytype](https://monkeytype.com/) <!-- TAGS: game,practice,typing,wpm -->
+- [GitHub - daaanstraight/AirPlonk: Plonk stuff around your local net.](https://github.com/daaanstraight/AirPlonk) <!-- TAGS: cli,command line tool,github -->
+- [GitHub - athityakumar/colorls: A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons.](https://github.com/athityakumar/colorls) <!-- TAGS: cli,command line tool,github -->
+- [Bitsy Game Maker by Adam Le Doux](https://ledoux.itch.io/bitsy) <!-- TAGS: game maker,pixel art,retro -->
+- [GitHub - codespell-project/codespell: check code for common misspellings](https://github.com/codespell-project/codespell) <!-- TAGS: cli,command line tool,github -->
+- [Uberspace - Hosting on Asteroids](https://uberspace.de/en) <!-- TAGS: hosting,myweb -->
+- [Teenyicons — Tiny minimal 1px icons](https://teenyicons.com) <!-- TAGS: front end development,icons,web design -->
+- [GitHub - LibreSprite/LibreSprite: Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite](https://github.com/LibreSprite/LibreSprite) <!-- TAGS: github,pixel art,program -->
+- [GIF Compressor – Compress GIF Animations Online](https://gifcompressor.com) <!-- TAGS: gif,image manip,online tool -->
+- [Heimdall | Glass Echidna](https://glassechidna.com.au/heimdall) <!-- TAGS: android,rom flashing,samsung -->
