@@ -108,3 +108,5 @@
 - [GitHub - LibreSprite/LibreSprite: Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite](https://github.com/LibreSprite/LibreSprite) <!-- TAGS: github,pixel art,program -->
 - [GIF Compressor – Compress GIF Animations Online](https://gifcompressor.com) <!-- TAGS: gif,image manip,online tool -->
 - [Heimdall | Glass Echidna](https://glassechidna.com.au/heimdall) <!-- TAGS: android,rom flashing,samsung -->
+- [DriveToWeb - Host websites on Google Drive and Microsoft OneDrive](https://drv.tw/) <!-- TAGS: free hosting,resources,website -->
+- [organice](https://organice.200ok.ch/) <!-- TAGS: organization,orgmode,web app -->
